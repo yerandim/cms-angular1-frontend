@@ -1,0 +1,22 @@
+{
+  "name": "cms-angular1-frontend",
+  "version": "1.0.0",
+  "description": "This is an proof of concept of angular 1. This a part of a complete project that contains a backend in PHP. This project is the frontend.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yerandim/cms-angular1-frontend.git"
+  },
+  "author": "Yerandi Marcheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yerandim/cms-angular1-frontend/issues"
+  },
+  "homepage": "https://github.com/yerandim/cms-angular1-frontend#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
